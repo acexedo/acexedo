@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm <a href="https://acexedo.netlify.app">Acexedo</a>
+# 👋 Hello, I'm <a href="https://acexedo.netlify.app">Ace</a>
 ### 🌐 Full-Stack Developer | Python Scripting | Data Intelligence
 
 <p align="center">
